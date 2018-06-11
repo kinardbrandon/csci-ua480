@@ -6,23 +6,12 @@ namespace A02_cew385
 {
     public class FirstPersonMove : MonoBehaviour
     {
-
-        // Use this for initialization
-        void Start()
-        {
-
-        }
-
-        // Update is called once per frame
         void Update()
         {
+
+            // Move the camera through the scene
             float moveX = Input.GetAxis("Horizontal");
             float moveZ = Input.GetAxis("Vertical");
-
-            //Vector3 position = transform.position;
-            //position.x += moveX;
-            //position.z += moveZ;
-
             transform.Translate(moveX, 0, moveZ);
         }
     }
