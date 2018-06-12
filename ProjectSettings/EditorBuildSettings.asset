@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ThirdParty/GoogleVR/Demos/Scenes/HelloVR.unity
     guid: bb36d2905dc634f1c9eecb35beecaca8
+  - enabled: 0
+    path: Assets/Assignments/Assignment_02/A02_zs967/Scenes/Assignment scene.unity
+    guid: 42797c6d4eb79455288ee158b07d97a6
   m_configObjects: {}
