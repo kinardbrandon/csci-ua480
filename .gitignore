@@ -4,6 +4,8 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+/[Pp]rojectSettings/ProjectSettings.asset
+/[Pp]rojectSettings/EditorBuildSettings.asset
 
 # Local folder structure
 *.DS_Store
